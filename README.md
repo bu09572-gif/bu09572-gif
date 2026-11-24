@@ -19,13 +19,13 @@ All 30 of my projects, grouped by industry: **[ai-ml-portfolio](https://github.c
 
 ## Skills
 
-**Languages:** Python, SQL (PostgreSQL, DuckDB)
-**Machine learning:** PyTorch, scikit-learn, XGBoost, SHAP, graph neural networks, fairness testing, model validation
-**LLMs & NLP:** RAG, LLM evaluation, prompt-injection defence, Hugging Face, spaCy, Ollama
-**Data engineering:** Kafka, Spark, Delta Lake, dbt, Airflow, data quality checks, CDC
-**Serving & cloud:** FastAPI, Streamlit, Docker, GitHub Actions, AWS (EC2, S3, Athena)
-**Domains:** healthcare, finance, insurance
+**Languages:** Python, SQL (PostgreSQL, DuckDB)  
+**Machine learning:** PyTorch, scikit-learn, XGBoost, SHAP, graph neural networks, fairness testing, model validation  
+**LLMs & NLP:** RAG, LLM evaluation, prompt-injection defence, Hugging Face, spaCy, Ollama  
+**Data engineering:** Kafka, Spark, Delta Lake, dbt, Airflow, data quality checks, CDC  
+**Serving & cloud:** FastAPI, Streamlit, GitHub Actions, AWS (EC2, S3, Athena)  
+**Domains:** healthcare, finance, insurance  
 
 ## Looking for
 
-Applied AI/ML Engineer, Data Scientist and Data Engineer roles (full-time from 2027, internships before that).
+Applied AI/ML Engineer, Data Scientist and Data Engineer roles, starting 2027.
