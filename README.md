@@ -15,7 +15,7 @@ Every project below uses **real public data**, reports numbers I measured, and h
 | [**Streaming Lakehouse**](https://github.com/bu09572-gif/streaming-lakehouse) | Kafka → Spark Structured Streaming → Delta Lake bronze/silver/gold | 1M real flight events, exact after a crash and restart |
 | [**Subrogation Detection**](https://github.com/bu09572-gif/subrogation-detection) | Flags recoverable auto claims at first notice of loss | 96% vs 89% precision against the industry rule |
 
-All 30 of my projects, grouped by industry: **[ai-ml-portfolio](https://github.com/bu09572-gif/ai-ml-portfolio)**
+All 28 of my projects, grouped by industry: **[ai-ml-portfolio](https://github.com/bu09572-gif/ai-ml-portfolio)**
 
 ## Skills
 
